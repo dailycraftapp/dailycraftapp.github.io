@@ -1,2 +1,2 @@
-# dailycraftapp.github.io
-開発者ページ
+# DailyCraftApp (dailycraftapp.github.io)
+DailyCraftApp 公式ポータルサイト / 開発者ページ
